@@ -18,3 +18,6 @@ It allows users to add, complete, and delete tasks easily.
 HTML
 CSS
 JavaScript
+
+💻 Live Demo
+https://manaalahmadd.github.io/To-Do-App/
