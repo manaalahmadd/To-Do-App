@@ -8,6 +8,7 @@ This is a web-based To-Do App built using HTML, CSS, and JavaScript.
 It allows users to add, complete, and delete tasks easily.
 
 🚀 Features
+
 ➕ Add new tasks
 ✅ Mark tasks as completed
 ❌ Delete tasks
@@ -15,9 +16,11 @@ It allows users to add, complete, and delete tasks easily.
 🎨 Simple and user-friendly interface
 
 🛠️ Technologies Used
+
 HTML
 CSS
 JavaScript
 
 💻 Live Demo
+
 https://manaalahmadd.github.io/To-Do-App/
